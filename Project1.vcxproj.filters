@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="成绩.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="if else .c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="成绩评级系统.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="switchcase.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组初始化.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="一维数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二维数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="测试1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针遍历数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="比大小.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数学算式.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="while循环.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="位数交换.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="进制.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="malloc.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="四舍五入.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="三位数换位.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="闰平年算天数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="循环里打五个换行.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最大公约数与最小公倍数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="简单while循环.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cos.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="斐波那契数列.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="十进制转任意进制.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="绝对素数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="一个数组中插入一个数并排序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="输入两个数组并排序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="杨辉三角形.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求数组最大最小数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二维数组的鞍点.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="闰平年算天数优.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="城市信息.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="城市区号查询.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="冒泡排序，快速排序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="动态链表.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="高斯日历.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="递归实现全排列.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="直角三角形周长.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="素数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="递归.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="大数算数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="邻接矩阵.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最小生成树.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="栈和队列.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="栈合法IO序列.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="离散3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="合并升序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="（快速排序）寻找未出现的最小正整数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="逆置后半段链表并合并.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="wd.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="共享栈.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="KMP next数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="给定二叉树转换为中级表达式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="孩子兄弟表示法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="邻接表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DFS实现拓扑.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉排序树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="科技文献.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
